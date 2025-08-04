@@ -1,0 +1,16 @@
+{
+  "name": "elevatelabs-task-1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Simple Node.js app for CI/CD task",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
