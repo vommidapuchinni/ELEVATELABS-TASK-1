@@ -3,6 +3,10 @@ name: CI/CD Pipeline
 on:
   push:
     branches: [main]
+    paths:
+      - 'app.js'
+      - 'Dockerfile'
+      - '.github/workflows/**'
 
 jobs:
   build-and-deploy:
