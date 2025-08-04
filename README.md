@@ -36,5 +36,6 @@ These are used inside the GitHub Actions workflow to log in and push the image.
 
 After the pipeline runs, the Docker image is available on DockerHub
 
-Access it by opening the browser and go to: http://localhost:3000
+I pulled the image from DockerHub and ran it.
+Then I accessed the app in my browser using:: http://localhost:3000
 
